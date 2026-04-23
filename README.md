@@ -9,11 +9,19 @@ Aplicativo de portfólio mobile desenvolvido com React Native e Expo, projetado 
 Este projeto funciona como um template para criação de aplicativos de portfólio pessoal, permitindo customização rápida de informações como perfil, contatos e habilidades.
 
 ---
+## Preview
 
-![Home](./assets/preview-home.JPG)
-![Contatos](./assets/preview-contatos.JPG)
-![Perfil](./assets/preview-perfil.JPG)
-![Skills](./assets/preview-skills.JPG)
+### Home
+![Home](./assets/preview-home.png.JPG)
+
+### Contatos
+![Contatos](./assets/preview-contatos.png.JPG)
+
+### Perfil
+![Perfil](./assets/preview-perfil.png.JPG)
+
+### Skills
+![Skills](./assets/preview-skills.png.JPG)
 
 ## Tecnologias
 
