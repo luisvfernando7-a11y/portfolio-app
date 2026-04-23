@@ -12,16 +12,16 @@ Este projeto funciona como um template para criação de aplicativos de portfól
 ## Preview
 
 ### Home
-![Home](./assets/preview-home.png.JPG)
+![Home](./assets/preview-home.png.JPG.JPG)
 
 ### Contatos
-![Contatos](./assets/preview-contatos.png.JPG)
+![Contatos](./assets/preview-contatos.png.JPG.JPG)
 
 ### Perfil
-![Perfil](./assets/preview-perfil.png.JPG)
+![Perfil](./assets/preview-perfil.png.JPG.JPG)
 
 ### Skills
-![Skills](./assets/preview-skills.png.JPG)
+![Skills](./assets/preview-skills.png.JPG.JPG)
 
 ## Tecnologias
 
