@@ -287,17 +287,14 @@ export default function App() {
   const renderContatos = () => {
     const tabItems = [
       { key: 'email',    label: 'E-mail' },
-      { key: 'telefone', label: 'Telefone' },
       { key: 'linkedin', label: 'LinkedIn' },
     ];
     const contactValues = {
       email:    'luis.fernando@email.com',
-      telefone: '(14) 99876-5432',
       linkedin: 'linkedin.com/in/luisfernandovieira',
     };
     const links = [
       { label: 'GitHub',    val: 'github.com/luisvfernando7-a11y', url: 'https://github.com/luisvfernando7-a11y' },
-      { label: 'Instagram', val: '@luis_galvani08',                 url: null },
       { label: 'Portfólio', val: 'luisgalvani.vercel.app',         url: 'https://luisgalvani.vercel.app' },
     ];
 
