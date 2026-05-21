@@ -101,6 +101,3 @@ GitHub: https://github.com/luisvfernando7-a11y
 Licença
 
 Uso livre para fins educacionais e pessoais.
-
-
-Se isso quebrar no teu GitHub, o problema não é o README — é porque você não colocou as imagens na pasta `assets` com esses nomes (`home.png`, `contatos.png`, etc).
